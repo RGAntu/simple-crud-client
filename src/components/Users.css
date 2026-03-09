@@ -1,0 +1,12 @@
+.box{
+    border: 1px solid blue;
+    padding: 10px 15px;
+}
+
+.input-box{
+    width: 70%;
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    outline: none;
+    
+}
